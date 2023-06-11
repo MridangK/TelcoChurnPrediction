@@ -124,7 +124,7 @@ In the context of telecom churn prediction, an initial exploratory data analysis
 
 Based on the EDA, generate insights about the dataset and identify potential predictors of churn.
 
-##Insight
+## Insights after EDA
 
 During the data exploration phase, an interesting insight was discovered: Churn is high when monthly charges are high, but surprisingly, higher churn is observed among customers with lower total charges. This suggests that customers with lower total charges may be more likely to churn, regardless of their monthly charges. This finding highlights the importance of considering the overall customer experience and value provided, beyond just the pricing structure, to effectively manage churn and retain customers.
 
