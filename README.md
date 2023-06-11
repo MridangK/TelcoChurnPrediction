@@ -124,6 +124,12 @@ In the context of telecom churn prediction, an initial exploratory data analysis
 
 Based on the EDA, generate insights about the dataset and identify potential predictors of churn.
 
+##Insight
+
+During the data exploration phase, an interesting insight was discovered: Churn is high when monthly charges are high, but surprisingly, higher churn is observed among customers with lower total charges. This suggests that customers with lower total charges may be more likely to churn, regardless of their monthly charges. This finding highlights the importance of considering the overall customer experience and value provided, beyond just the pricing structure, to effectively manage churn and retain customers.
+
+This insight can guide telecom companies in developing targeted strategies to address the specific needs and concerns of customers with lower total charges, with the aim of improving customer satisfaction and reducing churn rates.
+
 ## Conclusion
 
 Managing churn is essential for telecom companies to maintain profitability, retain customers, and stay competitive. By leveraging advanced techniques like machine learning and predictive modeling, telecom companies can identify customers at risk of churn and take proactive measures to retain them. Understanding the key drivers of churn and subscriber loyalty, along with effective data analysis and targeted campaigns, can significantly reduce churn rates and improve customer retention.
